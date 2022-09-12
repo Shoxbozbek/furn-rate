@@ -5,9 +5,9 @@
 }
 
 .checked {
-    color: red;
+    color: yellow;
 }
-.btn {
+.btns {
     background-color: inherit !important;
     border: 0 !important;
 }
