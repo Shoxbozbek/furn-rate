@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.checked {
+    color: red;
+}
+.btn {
+    background-color: inherit !important;
+    border: 0 !important;
+}
